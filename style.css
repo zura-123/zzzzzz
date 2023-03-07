@@ -1,0 +1,35 @@
+.container{
+    width: 562px;
+height: 700px;
+background-color: #FAFAFA;
+border: 1px;
+border-radius: 20px;
+border : 1px solid 
+#DCDCDC;
+}
+
+.container1{
+    height: 237px;
+    width: 184px;
+    margin-top: 50px;
+}
+*{
+    box-sizing: border-box;
+}
+.text{
+    width: 290px;
+height: 40px;
+margin-right: 150px;
+}
+.text1{
+    Width:443px;
+Height:311px;
+margin-top: 20px;
+}
+p{
+    font-size: 19px;
+}
+span{
+    color:  #5076FF;
+    margin-left: 350px;
+}
